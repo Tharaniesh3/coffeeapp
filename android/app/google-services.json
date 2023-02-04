@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605478600357",
+    "project_id": "coffeeapp-faa6c",
+    "storage_bucket": "coffeeapp-faa6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605478600357:android:75fca6a5a2e700ebe5974c",
+        "android_client_info": {
+          "package_name": "com.example.coffeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605478600357-fp1sgkkuh40jpn4u0dr3e2tn0kteep4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWIarnJL4e4jCDBbk6NoWn4ZPNfdFs8Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605478600357-fp1sgkkuh40jpn4u0dr3e2tn0kteep4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
